@@ -1,29 +1,50 @@
-### Olá! 👋 Sou Leonardo Mendonça Franco.
+# 👋 Olá, eu sou o Leonardo Mendonça Franco  
 
-[cite_start]Sou Engenheiro de Software, formado pelo **Instituto Nacional de Telecomunicações (INATEL)**[cite: 5, 23]. [cite_start]Tenho experiência no desenvolvimento de soluções técnicas para o setor de telecomunicações e um portfólio de projetos em tecnologia[cite: 5].
-
-[cite_start]Possuo habilidades avançadas em programação, incluindo **Java, Python, JavaScript, C++, React e Node**[cite: 6, 19]. [cite_start]Também tenho domínio de ferramentas e tecnologias como **CAD, API Management, MySQL e MongoDB**[cite: 6, 19, 22]. [cite_start]Sou fluente em inglês e tenho excelente capacidade de comunicação técnica e interpessoal[cite: 7, 25, 26].
-
----
-
-### 💻 Experiência
-
-- [cite_start]**Estagiário @ Instituto Nacional de Telecomunicações** (Agosto de 2024 - Julho de 2025) [cite: 9, 10][cite_start]: Desenvolvimento de soluções para a instalação de antenas (P&DC) [cite: 11] [cite_start]e soluções técnicas em CAD para instalação de equipamentos (Claro - FTTX)[cite: 12].
-
-- [cite_start]**Desenvolvedor Junior @ Sensedia** (Fevereiro de 2022 - Fevereiro de 2023) [cite: 13][cite_start]: Desenvolvimento e manutenção de APIs [cite: 14][cite_start], suporte a testes e documentação técnica[cite: 16].
+🎓 **Engenheiro de Software** formado pelo [INATEL](https://inatel.br), apaixonado por tecnologia, telecomunicações e desenvolvimento de soluções inovadoras.  
+💻 Atuo com **programação, APIs, bancos de dados e CAD**, além de experiências em **telecom (Vivo/Claro)** e **desenvolvimento de software (Sensedia)**.  
+🚀 Perfil **analítico e multidisciplinar**, sempre buscando aprender, colaborar e entregar soluções de qualidade.  
 
 ---
 
-### 🌱 Projetos e Habilidades
+## 🛠️ Tecnologias & Ferramentas  
 
-- [cite_start]**Linguagens**: HTML & CSS, JavaScript, Python, Java, C++, Go (Golang)[cite: 19].
-- [cite_start]**Frameworks/Ferramentas**: React, Node, SpringBoot, API Management, AutoCAD[cite: 19].
-- [cite_start]**Banco de Dados**: MySQL, MongoDB, SQL[cite: 19, 22].
-- **Certificações**: Databricks Fundamentals Accreditation.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)  
+![API Management](https://img.shields.io/badge/API-Management-blue?style=for-the-badge&logo=swagger&logoColor=white)  
 
 ---
 
-### 📫 Conecte-se Comigo
+## 📌 Experiência  
 
-- [cite_start]**LinkedIn**: www.linkedin.com/in/leonardo-mendonca-franco [cite: 4]
-- [cite_start]**Email**: leonardomfranco@outlook.com [cite: 4]
+- **Estagiário – INATEL (2024 - 2025)**  
+  Desenvolvimento de soluções técnicas para **Vivo/Claro (antenas, FTTX, CAD, diagramas e planejamento de cabos)**.  
+
+- **Desenvolvedor Júnior – Sensedia (2022 - 2023)**  
+  **APIs, documentação, testes, manutenção de software e integração com equipes multidisciplinares**.  
+
+---
+
+## 🌍 Idiomas  
+
+- 🇺🇸 Inglês (C1 – avançado)  
+- 🇪🇸 Espanhol (intermediário)  
+
+---
+
+## 📫 Conecte-se comigo  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-mendonca-franco)  
+📧 **leonardomfranco@outlook.com**  
+
+---
+
+⚡ *“Tecnologia é sobre resolver problemas reais e conectar pessoas.”*  
